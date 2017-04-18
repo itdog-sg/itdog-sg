@@ -6,37 +6,14 @@ This is a free service and software for Sinagpore, made with a loving Hong Kong 
 
 ### What is IT Dog?
 
+##TL;DR : IT Dog is your personal virtual assistant in telegram!
+
 IT Dog is a joke in Hong Kong, looking back to the [dot-com bubble during 1995 - 2001](https://en.m.wikipedia.org/wiki/Dot-com_bubble), IT petitioners are the gems and when the bubble blasts, the IT petitioners are being treated like a dog.
 
-When you tell people you work in IT industy..
 ![IT Dog](http://i.imgur.com/AMhvEcJ.jpg)
 
+SOmetime in 
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itdog-sg/itdog-sg/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### So what is this
