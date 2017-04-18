@@ -4,6 +4,9 @@ This is the GitHub page for the Singaporean's Virtual Assisant [IT Dog Singapore
 
 This is a free service and software for Sinagpore, made with a loving Hong Kong heart <3, but you are encouraged to give me some spare change to make this bot sustainable. [Donate any amount to the author](https://www.paypal.me/SingaporeITDog)
 
+![Donate](http://i.imgur.com/IqwEowR.jpg)
+* [Donate any amount to the author](https://www.paypal.me/SingaporeITDog)
+
 ### What is IT Dog?
 
 ## TL;DR : IT Dog is your personal virtual assistant in telegram!
