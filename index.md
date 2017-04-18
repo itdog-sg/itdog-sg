@@ -7,9 +7,9 @@ This is a free service and software for Sinagpore, made with a loving Hong Kong 
 ![Donate](http://i.imgur.com/IqwEowR.jpg)
 * [Donate any amount to the author](https://www.paypal.me/SingaporeITDog)
 
-### What is IT Dog?
+## What is IT Dog?
 
-## TL;DR : IT Dog is your personal virtual assistant in telegram!
+### TL;DR : IT Dog is your personal virtual assistant in telegram!
 
 IT Dog is a joke in Hong Kong, looking back to the [dot-com bubble during 1995 - 2001](https://en.m.wikipedia.org/wiki/Dot-com_bubble), IT petitioners are the gems and when the bubble blasts, the IT petitioners are being treated like a dog.
 
@@ -29,4 +29,18 @@ While the bot was added to a high amount of public groups in Hong Kong Telegram 
 However, these data are only useful in Hong Kong and the author is actully living in Singapore, so the Singapore Edition with localised information is out.
 
 
-### So what IT Dog can do?
+## So what IT Dog can do?
+
+Currently, IT Dog Singapore Edition can do the following things:
+
+* Weather Forecast (2 Hour Nowcast provided by NEA)
+` What is the weather today? `
+* Bus Arrival Information (by LTA)
+``` // Bus (Bus Service Number) at (Bus Stop Number)
+Bus 36 at 92049
+//It will answer the lastest 3 bus arrival information and seats info, please give yourself 1 min buffer.
+```
+* MRT Arrival information (Experimential using [mrtapi.com](http://mrtapi.com)
+``` //Only SMRT Circle is supported at this moment
+Hey it dog!
+// Choose Line(Circle Line) and train station.
