@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## IT Dog Singapore Edition
 
-You can use the [editor on GitHub](https://github.com/itdog-sg/itdog-sg/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the GitHub page for the Singaporean's Virtual Assisant [itdogsg](https://t.me/itdog_sg_bot)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This bot will open source once the production release is out.
 
-### Markdown
+### What is IT Dog?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
