@@ -9,7 +9,7 @@ This is a free service and software for Sinagpore, made with a loving Hong Kong 
 IT Dog is a joke in Hong Kong, looking back to the [dot-com bubble during 1995 - 2001](https://en.m.wikipedia.org/wiki/Dot-com_bubble), IT petitioners are the gems and when the bubble blasts, the IT petitioners are being treated like a dog.
 
 When you tell people you work in IT industy..
-[!IT Dog](http://i.imgur.com/AMhvEcJ.jpg)
+![IT Dog](http://i.imgur.com/AMhvEcJ.jpg)
 
 
 
