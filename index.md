@@ -15,7 +15,7 @@ IT Dog is a joke in Hong Kong, looking back to the [dot-com bubble during 1995 -
 
 ![IT Dog](http://i.imgur.com/AMhvEcJ.jpg)
 
-In 2016, There was a meme "IT Dog, your information are useful!" are flooding the internet, it comes from an educational magazine "Maths and Tech", the term "IT Dog" became controversial as it reflected the IT petitioners in Hong Kong today are like dogs, without respects from fellow colleagues nor your boss.[Source](http://evchk.wikia.com/wiki/IT狗，你的資訊真的很有用)
+In 2016, There was a meme "IT Dog, your information are useful!" flooding over the internet, it comes from an educational magazine "Maths and Tech", the term "IT Dog" became controversial as it reflected the IT petitioners in Hong Kong today are like dogs, without respects from fellow colleagues nor your boss.[Source](http://evchk.wikia.com/wiki/IT狗，你的資訊真的很有用)
 
 ![IT Dog Comic](http://i.imgur.com/QEOKRzT.jpg)
 * Jenny (The girl on the left): IT Dog, your information are useful!
