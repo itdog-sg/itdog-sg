@@ -34,9 +34,10 @@ However, these data are only useful in Hong Kong and the author is actually livi
 Currently, IT Dog Singapore Edition can do the following things:
 
 * Weather Forecast (2 Hour Nowcast provided by NEA)
-` What is the weather today? `
+``` What is the weather today? ```
 * Bus Arrival Information (by LTA)
-```  Bus (Bus Service Number) at (Bus Stop Number)
+```  
+Bus (Bus Service Number) at (Bus Stop Number)
 e.g. : Bus 36 at 92049
 It will answer the latest 3 bus arrival information and seat info, please give yourself 1 min buffer.
 ```
