@@ -36,11 +36,11 @@ Currently, IT Dog Singapore Edition can do the following things:
 * Weather Forecast (2 Hour Nowcast provided by NEA)
 ` What is the weather today? `
 * Bus Arrival Information (by LTA)
-``` // Bus (Bus Service Number) at (Bus Stop Number)
-Bus 36 at 92049
-//It will answer the latest 3 bus arrival information and seat info, please give yourself 1 min buffer.
+```  Bus (Bus Service Number) at (Bus Stop Number)
+e.g. : Bus 36 at 92049
+It will answer the latest 3 bus arrival information and seat info, please give yourself 1 min buffer.
 ```
 * MRT Arrival information (Experimental using [mrtapi.com](http://mrtapi.com)
-``` //Only SMRT Circle is supported at this moment
-Hey it dog!
-// Choose Line(Circle Line) and train station.
+``` 
+not sure what to type?just ask "Hey it dog!"
+```
